@@ -1,0 +1,107 @@
+2020-12-26 22:44:16,789 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:18,201 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.085108 | Loss: 0.007246
+2020-12-26 22:44:18,202 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.023305 | Loss: 0.000328
+2020-12-26 22:44:18,202 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:18,202 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:19,364 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.036572 | Loss: 0.000853
+2020-12-26 22:44:19,365 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.021175 | Loss: 0.000304
+2020-12-26 22:44:19,365 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:19,365 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:20,555 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.034224 | Loss: 0.000791
+2020-12-26 22:44:20,556 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.019555 | Loss: 0.000270
+2020-12-26 22:44:20,556 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:20,556 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:22,005 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.030931 | Loss: 0.000654
+2020-12-26 22:44:22,005 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.020063 | Loss: 0.000287
+2020-12-26 22:44:22,005 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:22,005 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:23,450 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.030193 | Loss: 0.000590
+2020-12-26 22:44:23,450 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.034640 | Loss: 0.000560
+2020-12-26 22:44:23,450 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:23,450 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:24,613 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.030511 | Loss: 0.000655
+2020-12-26 22:44:24,614 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.029627 | Loss: 0.000568
+2020-12-26 22:44:24,614 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:24,614 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:25,765 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.027695 | Loss: 0.000578
+2020-12-26 22:44:25,765 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.018684 | Loss: 0.000241
+2020-12-26 22:44:25,765 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:25,765 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:27,032 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.029456 | Loss: 0.000598
+2020-12-26 22:44:27,032 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.017943 | Loss: 0.000236
+2020-12-26 22:44:27,032 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:27,032 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:28,418 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.027015 | Loss: 0.000538
+2020-12-26 22:44:28,418 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.018349 | Loss: 0.000234
+2020-12-26 22:44:28,419 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:28,419 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:29,794 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.027705 | Loss: 0.000560
+2020-12-26 22:44:29,794 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.019067 | Loss: 0.000263
+2020-12-26 22:44:29,794 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:29,802 - D:/PyCharm 2019.3.2/risk/run.py[line:203] - INFO: seq_len=  5|  batch_size= 10 | test_size=20 |lr=0.00100 after info: Loss(RMSE): 83.908  Accuracy: 0.025355
+2020-12-26 22:44:46,348 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:48,166 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.061651 | Loss: 0.004115
+2020-12-26 22:44:48,167 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.018591 | Loss: 0.000250
+2020-12-26 22:44:48,167 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:48,167 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:49,360 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.038543 | Loss: 0.000963
+2020-12-26 22:44:49,361 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.021447 | Loss: 0.000270
+2020-12-26 22:44:49,361 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:49,361 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:50,573 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.037585 | Loss: 0.000990
+2020-12-26 22:44:50,574 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.031645 | Loss: 0.000494
+2020-12-26 22:44:50,574 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:50,574 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:51,876 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.031519 | Loss: 0.000683
+2020-12-26 22:44:51,876 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.016929 | Loss: 0.000189
+2020-12-26 22:44:51,876 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:51,876 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:53,068 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.030314 | Loss: 0.000649
+2020-12-26 22:44:53,069 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.019197 | Loss: 0.000220
+2020-12-26 22:44:53,069 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:53,069 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:54,557 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.030469 | Loss: 0.000650
+2020-12-26 22:44:54,557 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.044315 | Loss: 0.001026
+2020-12-26 22:44:54,557 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:54,557 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:55,736 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.031233 | Loss: 0.000671
+2020-12-26 22:44:55,736 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.020468 | Loss: 0.000289
+2020-12-26 22:44:55,736 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:55,736 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:57,116 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.028390 | Loss: 0.000575
+2020-12-26 22:44:57,117 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.020877 | Loss: 0.000292
+2020-12-26 22:44:57,117 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:57,117 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:58,380 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.029082 | Loss: 0.000591
+2020-12-26 22:44:58,380 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.024103 | Loss: 0.000340
+2020-12-26 22:44:58,380 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:58,381 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:44:59,601 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.027299 | Loss: 0.000499
+2020-12-26 22:44:59,601 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.023396 | Loss: 0.000393
+2020-12-26 22:44:59,601 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:44:59,608 - D:/PyCharm 2019.3.2/risk/run.py[line:203] - INFO: seq_len=  5|  batch_size= 10 | test_size=20 |lr=0.00500 after info: Loss(RMSE): 85.886  Accuracy: 0.026266
+2020-12-26 22:45:13,750 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:45:15,565 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.053830 | Loss: 0.002563
+2020-12-26 22:45:15,565 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.029581 | Loss: 0.000529
+2020-12-26 22:45:15,565 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:45:15,565 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:45:16,887 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.033498 | Loss: 0.000769
+2020-12-26 22:45:16,887 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.024739 | Loss: 0.000296
+2020-12-26 22:45:16,887 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:45:16,887 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:45:18,131 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.032640 | Loss: 0.000741
+2020-12-26 22:45:18,131 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.020084 | Loss: 0.000218
+2020-12-26 22:45:18,132 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:45:18,132 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:45:19,721 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.029146 | Loss: 0.000604
+2020-12-26 22:45:19,722 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.029183 | Loss: 0.000297
+2020-12-26 22:45:19,722 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:45:19,722 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:45:21,042 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.030306 | Loss: 0.000610
+2020-12-26 22:45:21,042 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.031424 | Loss: 0.000689
+2020-12-26 22:45:21,042 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:45:21,042 - D:/PyCharm 2019.3.2/risk/run.py[line:137] - INFO: ====================================================================================================
+2020-12-26 22:45:22,331 - D:/PyCharm 2019.3.2/risk/run.py[line:169] - INFO: Training:	  accuracy：0.028975 | Loss: 0.000571
+2020-12-26 22:45:22,331 - D:/PyCharm 2019.3.2/risk/run.py[line:170] - INFO: Evaluating:	 accuracy：0.019251 | Loss: 0.000211
+2020-12-26 22:45:22,331 - D:/PyCharm 2019.3.2/risk/run.py[line:171] - INFO: 
+2020-12-26 22:45:22,340 - D:/PyCharm 2019.3.2/risk/run.py[line:203] - INFO: seq_len=  5|  batch_size= 10 | test_size=20 |lr=0.00500 after info: Loss(RMSE): 61.527  Accuracy: 0.018658
